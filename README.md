@@ -1,4 +1,7 @@
 # The-Anki-Vector-Bot
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Damantha126/The-Anki-Vector?label=Repo%20Size)
+
 # The-Anki-Vector-Bot Based on Python Telegram Bot
 <p align="center">
   <img src="https://telegra.ph/file/3c9547262214b966babb8.jpg">
