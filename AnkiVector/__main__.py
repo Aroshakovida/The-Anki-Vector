@@ -71,7 +71,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/toothlessupdates"),
+        InlineKeyboardButton(text="📌ᴜpᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/toothlessupdates"),
         InlineKeyboardButton(text="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/toothless_support_official"),
     ],
     [
