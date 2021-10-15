@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ Baby toothless ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/ceylontoothless_bot?startgroup=true"
+            text="➕ ᴀᴅᴅ Baby toothless ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/mytoothless_bot?startgroup=true"
         ),
     ],
 ]
